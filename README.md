@@ -1,4 +1,4 @@
-# ⚡ mlh project 2 - Bolt V2 AI Web Application Builder & ChatGPT Unlimited
+# ⚡ mlh project 1 - Bolt V2 AI Web Application Builder & ChatGPT Unlimited
 
 A next-generation, full-stack AI Web Application Builder and ChatGPT interface built with **React**, **TypeScript**, **Tailwind CSS**, and **Vite**. Features an interactive Live Preview canvas, real-time code editor, responsive device switcher, file explorer, and zero-subscription unlimited AI generation.
 
